@@ -1,22 +1,34 @@
 # Website-phishing-detection-using Machine Learning
 #Note-The code is executed in Jupyter Notebook Environment and the data set File is loaded by inserting the file path wherever necessary.
 
-Online security is crucial in today's linked digital world. Phishing attacks, which attempt to trick users into disclosing personal information on phoney websites, present a serious concern. To prevent people from falling for phishing scams, our project, "Website Phishing Detection with Machine Learning," uses machine learning approaches to address this issue.
-Our main objective is to offer a simple and useful solution that enables people and companies to recognise potentially harmful websites quickly. The project's accessibility and simplicity are its core components. Users do not need to be specialists in cybersecurity to use our system. 
-Our approach identifies probable phishing websites by inspecting various website properties, including URL structure, port, SSL certificates, and hyperlinks. Our program allows users to rapidly determine the integrity of any strange URLs they come across. 
+Online security is crucial in today's linked digital world. Phishing attacks, which attempt to trick users into disclosing personal information on phoney websites, present a serious concern.
+To prevent people from falling for phishing scams, our project, "Website Phishing Detection with Machine Learning," uses machine learning approaches to address this issue.
+Our main objective is to offer a simple and useful solution that enables people and companies to recognise potentially harmful websites quickly. 
+The project's accessibility and simplicity are its core components. Users do not need to be specialists in cybersecurity to use our system. 
+Our approach identifies probable phishing websites by inspecting various website properties, including URL structure, port, SSL certificates, and hyperlinks.
+Our program allows users to rapidly determine the integrity of any strange URLs they come across. 
 
-##PROJECT DESIGN:
+PROJECT DESIGN:
 Hardware and Software Requirements:
+
 •	     Processor: Any Update Processer
+
 •	     RAM: Min 4 GB
+
 •	    Hard Disk: Min 100 GB
+
 •	     Operating System: Windows family
+
 •	     Technology: Python 3.6
+
 •	     IDE: Jupyter Notebook
 
 Technologies and Design Methods:
+
 •	Python is one of the programming languages (with libraries like Scikit-learn, Pandas, and NumPy)
+
 •	Processing and Analyzing Data: Jupyter Notebooks, Matplotlib, Seaborn 
+
 •	Machine Learning Models: Decision Trees, Naive Bayes, K-Nearest Neighbors (KNN), Neural Networks
 
 After trying out different regression and classification models we found that the following have the most accuracy among all.

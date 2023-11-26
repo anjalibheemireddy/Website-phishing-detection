@@ -1,5 +1,5 @@
 # Website-phishing-detection-using Machine Learning
-###Note-The code is executed in Jupyter Notebook Environment and the data set File is loaded by inserting the file path wherever necessary.
+#Note-The code is executed in Jupyter Notebook Environment and the data set File is loaded by inserting the file path wherever necessary.
 
 Online security is crucial in today's linked digital world. Phishing attacks, which attempt to trick users into disclosing personal information on phoney websites, present a serious concern. To prevent people from falling for phishing scams, our project, "Website Phishing Detection with Machine Learning," uses machine learning approaches to address this issue.
 Our main objective is to offer a simple and useful solution that enables people and companies to recognise potentially harmful websites quickly. The project's accessibility and simplicity are its core components. Users do not need to be specialists in cybersecurity to use our system. 
